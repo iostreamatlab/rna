@@ -18,3 +18,8 @@ cca_pos = 74:76;
 rnaplot(phe_str, 'sequence', phe_seq, 'format', 'diagram', ...
     'selection', [aag_pos, cca_pos]);
 ```
+
+
+
+![](https://github.com/iostreamatlab/rna/raw/master/rna-1.jpg)  
+
