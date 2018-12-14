@@ -22,4 +22,5 @@ rnaplot(phe_str, 'sequence', phe_seq, 'format', 'diagram', ...
 
 
 ![](https://github.com/iostreamatlab/rna/raw/master/rna-1.jpg)  
+![](https://github.com/iostreamatlab/rna/raw/master/rna-2.jpg)
 
