@@ -1,6 +1,6 @@
 # rna
 RNA gene drawing
-'''
+```
 phe_seq = 'GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA';
 phe_str = rnafold(phe_seq);
 
@@ -17,4 +17,4 @@ aag_pos = 34:36;
 cca_pos = 74:76;
 rnaplot(phe_str, 'sequence', phe_seq, 'format', 'diagram', ...
     'selection', [aag_pos, cca_pos]);
-'''
+```
