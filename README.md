@@ -1,6 +1,6 @@
 # rna
 RNA gene drawing
-```
+```matlab
 phe_seq = 'GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA';
 phe_str = rnafold(phe_seq);
 
